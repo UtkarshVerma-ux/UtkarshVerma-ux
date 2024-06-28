@@ -30,4 +30,7 @@ I’m a Python developer, full-stack web developer, and data scientist who loves
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-verma-6728bb222/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-verma-6728bb222/)
+- ---
+
+### :hammer_and_wrench: Languages and Tools :
