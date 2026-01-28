@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Utkarsh Verma]
+# 👋 Hi, I'm Utkarsh Verma
 
 <div align="center">
   
